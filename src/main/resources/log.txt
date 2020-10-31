@@ -1,0 +1,2 @@
+2020-10-26 10:24:03,602 INFO [main] file-logger [Application.java:20] initial count of money: [865, 154, 790, 322, 826, 649, 660, 131, 840, 747] total: 5984
+2020-10-26 10:24:04,613 INFO [main] file-logger [Application.java:27] final count of money: [1393, 1738, 226, 1, 371, 9, 109, 413, 26, 1698] total: 5984
